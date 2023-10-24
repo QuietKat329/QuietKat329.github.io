@@ -1,1 +1,20 @@
+body{
+    background-color: rgb(152, 93, 16);
+    font-family: Arial, Helvetica, sans-serif;
+}
 
+  h1{
+    color: rgb(4, 47, 65);
+    text-align: center;
+}
+  .assign{
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    background: rgb(172, 172, 250);
+}
+  
+  .assign img{
+    width: 200px;
+    padding: 10px;
+}
